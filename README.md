@@ -16,4 +16,6 @@ The goal of this project is to determine
 
 ####  Below is the link to the full details of the project 
 
+https://medium.com/@ogbozorracheal/machine-learning-prediction-analysis-on-heart-disease-case-af8856832c0a
+
 
